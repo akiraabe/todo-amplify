@@ -1,0 +1,10 @@
+{
+  "resourceName": "TodoDB",
+  "tableName": "TodoTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
